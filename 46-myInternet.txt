@@ -1,7 +1,9 @@
 Before Research:
-What is Internet?
+What is Internet?(interconnected networks)
 Is a big library, where searching takes less time.
-And have more Illustrations to associate New info. with.
+And have more Illustrations to associate New info with.
+Def1:The Internet is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link billions of devices worldwide.
+Def2:Internet is the great global virtual library, where anyone in anywhere in the world can access to this huge digital archive where knowledge, leisure and professional world converge in one space called Internet.
 
 What may be bad from Intenet Learning for me??
 I has advertisements. and Since  I have immediate access whatever 
@@ -11,16 +13,31 @@ by googling sth that has No contribution.
 without Any Reason, w/o any conscious decision.
 So Internet has to Be used
 properly. For Certain Reasons.
+Bad content.
+Addiction.
+Online Malware.
+You start doing things that you werent intedned to do before you come in.
 
 Watching Videos.
 Skimming FaceBook.
 
 Why Internet Is important for me?
-It provides imformation.
-It is a tool.
-It is fast way of communicating to sb finding necessary information.
 
-How do Use Intenet?
+It is a tool.
+It is fast way of communicating to sb.
+It finding instantaneous imformation, using search engines.{News, weather}
+Software that notifies me about information automatically.
+Available to anyone from anywhere.
+It can spread information across a very big distances.
+It is perfect tool to make a research on various topics.
+Cheap way of advertising, and communication and sth else...
+Do stuff in a distance: learning, communicating, customer support, online translation. etc.
+It offers bunch of online services and e-commerce.
+It offers an Entertainment.{Movies, music, games, and gossips}
+Can search a question If doesn't exist then can ask one.
+It offers a lot of software for building stuff for free.
+
+How to Use Intenet?
 Whole job in internet is divided into two:
 1 Search what I need
 2 Consume what I found.
