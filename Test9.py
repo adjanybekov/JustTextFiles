@@ -1,4 +1,4 @@
-# Function to find the maximum contiguous subarray
+# Function to find the maximum contiguous subarraya
 from sys import maxint
 def maxSubArraySum(a,size):
       
