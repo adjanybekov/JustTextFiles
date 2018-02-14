@@ -1,11 +1,10 @@
-SOP
 Hello!
-My name is Azat Dhznaybekov. I am 21 years old. Right now I am 4th year student at Middle East Technical University 
-located in capital of Turkey - Ankara. Although I will graduate this June, I want to continue education in the field of 
-Computer Engineering and strengthen programming skills.
 
-With this intention I believe that Hungarian Universities is a good choice, because after getting feedback from some graduates,
-I found out that they provide focused education on practical side. Moreover they are famous with their technical education.
+My name is Azat Dhznaybekov. I am 21 years old. Right now I am 4th year student at Middle East Technical University 
+located in the capital of Turkey - Ankara. Although I will graduate this June, I want to continue education. Particularly I want to do it in the field of Computer Engineering and strengthen my engineering skills.
+
+For this intention I believe that Universities such as Budapest University of Technology and Economics, University of Szeged, University of Debrecen is a good choice. To be sure I got feedback from some graduates of these universities, and
+I found out that provide focused education on practical side. Moreover they are famous with their technical education.
 This research ensured that enrolling to master degree in CS is a right step in reaching my goal, which is to become professional 
 computer engineer, and I hope that I will be accepted.
 
