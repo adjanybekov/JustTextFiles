@@ -1,0 +1,22 @@
+SOP
+Hello!
+My name is Azat Dhznaybekov. I am 21 years old. Right now I am 4th year student at Middle East Technical University 
+located in capital of Turkey - Ankara. Although I will graduate this June, I want to continue education in the field of 
+Computer Engineering and strengthen programming skills.
+
+With this intention I believe that Hungarian Universities is a good choice, because after getting feedback from some graduates,
+I found out that they provide focused education on practical side. Moreover they are famous with their technical education.
+This research ensured that enrolling to master degree in CS is a right step in reaching my goal, which is to become professional 
+computer engineer, and I hope that I will be accepted.
+
+As a field CS is also something I like dealing with in my free time. I regularly participate in coding competitions among 
+Universities and online such as codeforces.com. And as for now I have made some achievements there.
+
+My future plans are big. Master degree won’t only improve my technical skills, but also it will allow to actively participate 
+and maybe lead projects. Although we have internet services are not very advanced in my country. AS an example, 
+many services and one of them is transportation system has to digitalized. Tickets to the buses or trains cannot 
+be purchased via internet. 
+
+I also have worked as a Computer Engineer during last 2 summers and gained experience in Web Development and mathematics. 
+I believe that this experience and strong mathematical background qualifies me for the master position at 
+stipendium hungaricum program.
