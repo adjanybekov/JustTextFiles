@@ -1,17 +1,21 @@
 Hello!
 
 My name is Azat Dhznaybekov. I am 21 years old. Right now I am 4th year student at Middle East Technical University 
-located in the capital of Turkey - Ankara. Although I will graduate this June, I want to continue education. Particularly I want to do it in the field of Computer Engineering and strengthen my engineering skills.
+located in the capital of Turkey - Ankara. Although I will graduate this June, I want to continue education. Particularly I want to do it
+in the field of Information Technology and strengthen my engineering skills.
 
-For this intention I believe that Universities such as Budapest University of Technology and Economics, University of Szeged, University of Debrecen is a good choice. To be sure I reached some graduates of these universities, and of course we discussed pros and cons.
-First advantage is that they focused education. Secondly they invest more time on practical side. And finally the environment is international which allows culture and knowledge exchange.
+For this intention I believe that Universities such as Budapest University of Technology and Economics, University of Szeged, University
+of Debrecen is a good choice. To be sure, I reached some graduates of these universities, and of course we discussed pros and cons.
+One of advantages is that they focused education. Another one is that they invest more time on practical side. And finally the environment 
+is widely international which allows culture and experience exchange.As a result this and many other researches I ensured that enrolling 
+to masterdegree in CS is a right step in reaching my goal, which is to become professional computer engineer, and I hope that I will be accepted.
 
-  As a result this and many other researches I ensured that enrolling to master degree in CS is a right step in reaching my goal, which is to become professional computer engineer, and I hope that I will be accepted.
-
- Alongside with master degree, I like learning information technology and acquire new skills in it whenever I find time. For example using mathematical background and fundamental programming skills, I regularly participate in coding competitions among Universities and online such as codeforces.com and ACM ICPC. As a consequence of this hobby I could get honorable achievements in competitive programming, which gave more motivation to push it forward.
+ Alongside with master degree, I like learning information technology and acquire new skills in it whenever I find time. For example by 
+ using mathematical background and fundamental programming skills, I regularly participate in coding competitions among Universities and online
+ such as codeforces.com and ACM ICPC. As a consequence of this hobby so far I could get some honorable achievements in competitive programming, which gives me more motivation to push it forward.
 
 My future plans are big. Master degree won’t only improve my technical skills, but also it will allow to actively participate 
-and maybe lead projects.
+and maybe lead projects with wide audience.
 
 Although we have internet services are not very advanced in my country. AS an example, 
 many services and one of them is transportation system has to digitalized. Tickets to the buses or trains cannot 
