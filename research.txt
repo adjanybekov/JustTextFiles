@@ -22,11 +22,11 @@ Amazon,
 ------------------------------------------------------------------------------------------------------
 Yahoo,
 ------------------------------------------------------------------------------------------------------
-+ Spotify,
+(FAILED) Spotify,
 	(https://www.spotifyjobs.com/job/web-engineer-ovn99fwk/)
 FAILED
 ------------------------------------------------------------------------------------------------------
-+Netflix,
+(FAILED)Netflix,
 https://jobs.netflix.com/jobs/865888
 FAILED
 
@@ -48,9 +48,9 @@ Udemy,
 Dropbox,
 ------------------------------------------------------------------------------------------------------
 
-+ Quora,
+(FAILED) Quora,
 	()
-FAILED
+
 ------------------------------------------------------------------------------------------------------
 Instagram,(mostly requires android and ios, interactivity, stories, messaging)
 ------------------------------------------------------------------------------------------------------
@@ -58,13 +58,13 @@ Microsoft,
 ------------------------------------------------------------------------------------------------------
 LinkedIn,
 ------------------------------------------------------------------------------------------------------
-+ Twitter,
+(FAILED) Twitter,
 	(https://careers.twitter.com/en/work-for-twitter/201811/software-engineer-backend-brand-advertising.html)
-FAILED
+
 ------------------------------------------------------------------------------------------------------
-+ Palantir:
+(FAILED) Palantir:
 	(https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0/thanks)
-FAILED
+
 
 Requirements
 but it does matter that you can write clean, effective code and learn new languages quickly
@@ -119,4 +119,5 @@ BCG:
 
 
 
-Skills required but absent: distributed and parallel systems, machine learning,information retrieval,natural language processing, networking
+Skills required but absent: distributed and parallel systems, machine learning,information retrieval,natural language processing, networking.
+
