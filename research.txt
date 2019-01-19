@@ -1,0 +1,122 @@
+Google,
+
+(Madison,US)https://careers.google.com/jobs/results/6276347993456640-software-engineer/?category=SOFTWARE_ENGINEERING&company=Google&company=YouTube&employment_type=FULL_TIME&page=2&q=&skills=web-engineer-ovn99fwk
+
+(Zurich,Swizerland)https://careers.google.com/jobs/results/6680340938817536-software-engineer/?category=SOFTWARE_ENGINEERING&company=Google&company=YouTube&employment_type=FULL_TIME&page=3&q=&skills=web
+
+(YouTube, MountainView )https://careers.google.com/jobs/results/6086930221694976-software-engineer-youtube/?category=SOFTWARE_ENGINEERING&company=Google&company=YouTube&employment_type=FULL_TIME&page=3&q=&skills=web
+
+(Chicago,US)https://careers.google.com/jobs/results/5662129732648960-software-engineer/?category=SOFTWARE_ENGINEERING&company=Google&company=YouTube&employment_type=FULL_TIME&page=3&q=&skills=web
+
+(Waterloo,Canada) https://careers.google.com/jobs/results/5637038265270272-software-engineer/?category=SOFTWARE_ENGINEERING&company=Google&company=YouTube&employment_type=FULL_TIME&page=4&q=&skills=web
+
+(New-York,US)https://careers.google.com/jobs/results/4916343814160384-software-engineer/?category=SOFTWARE_ENGINEERING&company=Google&company=YouTube&employment_type=FULL_TIME&location=New%20York,%20NY,%20USA&q=&skills=web
+
+
+Requirements:
+Experience working with two or more from the following: web application development, Unix/Linux environments, mobile application development, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, and/or security software development
+
+
+------------------------------------------------------------------------------------------------------
+Amazon,
+------------------------------------------------------------------------------------------------------
+Yahoo,
+------------------------------------------------------------------------------------------------------
++ Spotify,
+	(https://www.spotifyjobs.com/job/web-engineer-ovn99fwk/)
+FAILED
+------------------------------------------------------------------------------------------------------
++Netflix,
+https://jobs.netflix.com/jobs/865888
+FAILED
+
+Rejected Cuz it need lot of Javascript and UI experience.
+It says minimal guidance, and working with senior, high performing engineers constantly learning ? 
+Can you give an example for this ?
+
+Requirements:
+1)You thrive in JavaScript and building web applications
+2)Independent, proactive, and able to deliver production ready code with minimal guidance
+3)Great communications skills and open to give and receive constructive feedback
+------------------------------------------------------------------------------------------------------
+
+Udemy,
+------------------------------------------------------------------------------------------------------
+- Oracle, Че-то непонятная система регистарции & позиции оочень технические.
+
+------------------------------------------------------------------------------------------------------
+Dropbox,
+------------------------------------------------------------------------------------------------------
+
++ Quora,
+	()
+FAILED
+------------------------------------------------------------------------------------------------------
+Instagram,(mostly requires android and ios, interactivity, stories, messaging)
+------------------------------------------------------------------------------------------------------
+Microsoft,
+------------------------------------------------------------------------------------------------------
+LinkedIn,
+------------------------------------------------------------------------------------------------------
++ Twitter,
+	(https://careers.twitter.com/en/work-for-twitter/201811/software-engineer-backend-brand-advertising.html)
+FAILED
+------------------------------------------------------------------------------------------------------
++ Palantir:
+	(https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0/thanks)
+FAILED
+
+Requirements
+but it does matter that you can write clean, effective code and learn new languages quickly
+Cassandra, Spark, ElasticSearch, React, and Redux
+algorithms and data structures
+storage systems, cloud infrastructure, front-end frameworks,
+Ability to collaborate and empathize with a variety of individuals.
+Demonstrated ability to learn and work independently and make decisions with minimal supervision
+	------------------------------------------------------------------------------------------------------
++ Ebay:
+	(https://jobs.ebayinc.com/job/san-jose/software-engineer/403/10300500)
+------------------------------------------------------------------------------------------------------
+Fuck up the unneceasarry job experience stuff, instead add self-motivated projects.
+The ones where I can use internal refference, use it. THe ones where I can't, don't use it.
+(Google-Gokdeniz abi, Akzhol abi, Amazon-Engin Abi, Mirosoft-?, )
+Take a look at the feedback given by OGP, improve CV using its advices, just apply.
+1-) choose jobs
+2-) improve CV so that it can be suitable for those positions,
+3-) apply with help of network as well as without it
+4-) if things go well go through interview procedures
+5-) pack your bag and go upwards and onwards
+6-) Remember: If you don't try it, you don't get it.
+
+Saturday Morning we can continue on this
+
+
+Compass
+
+To learn out:
+Learn out requirements better.
+
+A)distributed systems.
+
+
+
+Second priority positions:(same companies different locations)
+	Spotify:
+	https://www.spotifyjobs.com/job/software-engineer-backend-onma4fwh/
+
+------------------------------------------------------------------------------------------------------
+TURKEY:
++Insider: Javascript
+------------------------------------------------------------------------------------------------------
+Koc Digital:
+------------------------------------------------------------------------------------------------------
++Turkcell: Genc yetenek
+------------------------------------------------------------------------------------------------------
++McKinsey:
+------------------------------------------------------------------------------------------------------
+BCG:
+------------------------------------------------------------------------------------------------------
+
+
+
+Skills required but absent: distributed and parallel systems, machine learning,information retrieval,natural language processing, networking
