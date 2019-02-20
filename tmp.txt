@@ -1,0 +1,18 @@
+const block = {
+ blockNumber:	104413,
+ parentHash: '0x4b1d39aedc8a83b5d87a84a915f66b9cb14e9e36',
+ difficulty: 65536,
+ resumeHash: '',
+ position: 'Senior Cryptography Engineer',
+ name: '',
+ minedBy: '',
+ nonce: 0,
+}
+
+var nonceObj=null;
+for(var i=10001; i<30001; i++){
+    var hash = "";
+    if(checkHash(hash,65536)){
+        nonceObj = "";
+    }
+}
