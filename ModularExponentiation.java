@@ -37,7 +37,7 @@ public class Main {
     long n = in.nextLong();
     long f1 = in.nextLong();
     long f2 = in.nextLong();
-    long f3 = in.nextLong();
+    long f3 = in.nextLong(); 
     long c = in.nextLong();
 
     long p = (2*((n*(n+1))/2 - 6))- ((n-3)*6);
