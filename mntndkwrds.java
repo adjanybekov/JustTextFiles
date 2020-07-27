@@ -42,6 +42,8 @@ public class Main
         }
         System.out.println(reviewSet);
         Map<String,Integer> map = new HashMap<>();
+        
+        
         for(String keyword: keywords){
             for(Set<String> review: reviewSet){
                 if(review.contains(keyword)){
@@ -55,17 +57,36 @@ public class Main
         
         //sort by riles
         
-        List<String> l = new ArrayList<>(map.keySet());
+        Queue<String> pq = new PriorityQueue<>((w1,w2)->map.get(w1)==map.get(w2)?
+                                                        w2.compareTo(w1):map.get(w1)-map.get(w2)); //min heap
+                                                        
+                                                        
+        // List<String> l = new ArrayList<>(map.keySet());
         
-        System.out.println(l);
-        Collections.sort(l, (w1,w2)->map.get(w1)==map.get(w2)?
-                                                        w1.compareTo(w2):map.get(w2)-map.get(w1));
+        // System.out.println(l);
+        // Collections.sort(l, (w1,w2)->map.get(w1)==map.get(w2)?
+        //                                                 w1.compareTo(w2):map.get(w2)-map.get(w1));
         
         
         //get top keywords
         
+        for(String keyword:keywords){
+            pq.offer(keyword);
+            if(pq.size()>k) pq.poll();
+        }
         
-	    return l.subList(0,k);
+        List<String> l = new ArrayList<>();
+        
+        for(int i=0; i<k ; i++){
+            String s = pq.poll();    
+            l.add(s);
+        }
+        
+        Collections.reverse(l);
+        System.out.println(l);
+        
+        
+	    return l;
 	    
 	}
 }
