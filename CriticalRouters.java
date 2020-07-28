@@ -78,6 +78,7 @@ public class Main
             }
         }
 	    
+	    //bfs with matrix = O(v^2)
 	    List<Integer> l = bfs(graph,(v+1)%graph.length);
 	    
 	    //copy back
@@ -106,6 +107,7 @@ public class Main
 	    // check if removal causes disconnection
 	    //add node to resList
 	    
+	    //check == O(v^2)
 	    for(int i=0; i<vCount; i++){
 	        
 	        if(check(graph,i)){
@@ -118,9 +120,6 @@ public class Main
 	    
 	    
 	    return resList.stream().mapToInt(i->i).toArray();
-      
-      
-      //complexity??
-	    
+	    //complexity =  O(v*v^2)-> O(v^3)
 	}
 }
