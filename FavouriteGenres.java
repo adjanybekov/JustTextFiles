@@ -19,17 +19,17 @@ public class Main
             
             Map<String,List<String>> userSongs = new HashMap<>();
             
-            userSongs.put("David",new ArrayList<>(Arrays.asList("song1", "song2", "song3", "song4", "song8")));
-            userSongs.put("Emma",new ArrayList<>(Arrays.asList("song5", "song6", "song7")));
+            userSongs.put("David",new ArrayList<>(Arrays.asList("song1", "song2")));
+            userSongs.put("Emma",new ArrayList<>(Arrays.asList("song3", "song4")));
             
             
             Map<String,List<String>> songGenres = new HashMap<>();
-            songGenres.put("Rock",new ArrayList<>(Arrays.asList("song1", "song3")));
+            // songGenres.put("Rock",new ArrayList<>(Arrays.asList("song1", "song3")));
             
-            songGenres.put("Dubstep",new ArrayList<>(Arrays.asList("song7")));
-            songGenres.put("Techno",new ArrayList<>(Arrays.asList("song2", "song4")));
-            songGenres.put("Pop",new ArrayList<>(Arrays.asList("song5", "song6")));
-            songGenres.put("Jazz",new ArrayList<>(Arrays.asList("song8", "song9")));
+            // songGenres.put("Dubstep",new ArrayList<>(Arrays.asList("song7")));
+            // songGenres.put("Techno",new ArrayList<>(Arrays.asList("song2", "song4")));
+            // songGenres.put("Pop",new ArrayList<>(Arrays.asList("song5", "song6")));
+            // songGenres.put("Jazz",new ArrayList<>(Arrays.asList("song8", "song9")));
             
             Map<String,List<String>>  res = solve(userSongs,songGenres);
             System.out.println(res);
@@ -50,19 +50,21 @@ public class Main
 	    Map<String,String>  songGenres = new HashMap<>();
 	    for(String k: genresSongs.keySet()){
 	        List<String>  l = genresSongs.get(k);
+	        
 	        for(String s: l){
 	            songGenres.put(s,k);
 	        }
 	    }
-	    System.out.println(songGenres);
+	    System.out.println(songGenres+"songGenres");
 	    //get freq of genres of a user
 	    Map<String,Map<String,Integer>> freq = new HashMap<>();
 	    
-	     for(String k: userSongs.keySet()){
+	    for(String k: userSongs.keySet()){
 	         
 	        List<String>  l = userSongs.get(k);
 	        Map<String,Integer> fr = new HashMap<>();
 	        for(String s: l){
+	            if(songGenres.get(s)!=null)
 	            fr.put(songGenres.get(s),fr.getOrDefault(songGenres.get(s),0)+1);
 	        }
 	        freq.put(k,fr);
