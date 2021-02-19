@@ -4,27 +4,37 @@ TITLE OF RESEARCH: Software development process optimization in Kyrgyzstan
 
 SHORT INTRODUCTION:
 Software development is rapidly growing activity that plays an important role in economic development of many countries of the world.
-According to the XXX, unlike 10 years ago, today software development impact on wolrd economy raised up to N percent. 
+According to the XXX, unlike 10 years ago, today software development impact on world economy raised up to N percent. 
 Particularly it has raised from YYY KGS to ZZZ KGS revenue only in HTP for the last year in the Kyrgyzstan.
-From here I colcude that it's effect is going to grow in the next 10 years, and effective of Software development will be the key to optimize the development of software 
-as well as the effectiveness of software development.
 
+What is the problem?
+It all looks good, but there is still a big room for improvement.
 
+-Treating intellectual work as physical
+-High failure rate of Software Projects
+because of 
+-Overestimated planning,
+-Lack of tests,
+-Not standartized quality of software,
+-Painful deployments/rollbacks,
+-Late product delivery
+
+How optimizaiton of SLDC is going to help to solve it?
+These problems are faced by all software engineer at some point, put it doesn't have to be.
+Projects success rate can be increased by applying existing techniques, such as SCRUM, Agile. 
+Important here is to choose most suitable for the team and the project.
 
 
 RESEARCH QUESTION/HYPOTHESIS:
-High failure rate of Software Development projects.
-Company is getting wrong understang of client requirements.
-One team member delay affecting whole team, and eventually extending deadlines.
-1. Unclear Vision Between Project leadership and Developer
-2. Poor Communication Between Team Members
-3. Misjudging Overall Costs and Overspending
+Choosing suitable project development technique, increases success rate and decreases time spent by more than 50%.
+Working remotely with suitable project development technique, can be as productive or more as working from office.
+
 
 OBJECTIVES:
 – The objective of this study is to find appropriate ways to measure and improve
 the productivity of the teams and to discover to what extent the agile methods, the
 integration of the lean principles and the “soft skills” of the team can be combined in order
-to achieve high quality results. 
+to achieve high quality results.(remotely and from office)
 
 BRIEF JUSTIFICATION OF PROPOSED RESEARCH PROJECT AND ITS SIGNIFICANCE:
 SDLC is a good thing, but because of some cultural aspects it is hard for some companies to adapt it.
@@ -56,5 +66,3 @@ https://www.atlassian.com/software/jira
 http://publications.lib.chalmers.se/records/fulltext/201465/201465.pdf
 
 https://synoptek.com/insights/it-blogs/solving-software-developments-greatest-challenges/
-
-https://cyberleninka.ru/article/n/informatsionnye-tehnologii-v-razvitii-kyrgyzstana-istoriya-i-perspektivy/viewer
