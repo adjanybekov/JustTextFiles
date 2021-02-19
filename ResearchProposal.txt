@@ -3,36 +3,36 @@ Research proposal in 15 mins
 TITLE OF RESEARCH: Software development process optimization in Kyrgyzstan
 
 SHORT INTRODUCTION:
-Software development is rapidly growing activity that plays an important role in economic development of many countries of the world.
-According to the XXX, unlike 10 years ago, today software development impact on world economy raised up to N percent. 
-Particularly High Tech Park of Kyrgyzstan has raised revenue from "965 million KGS" in 2019 to "1 billion 165 million KGS" in 2020, regardless of the pandmic.
-It all looks good, but there are still some impediments that cause high failure rate of Software Project development in Kyrgyzstan, such as 
-treating intellectual work as physical, Misunderstaing of business logic and lack of standarts in coding architecture and deployment.
-These problems have been faced by in many projects at some point, put it doesn't have to be.
-Projects success rate can be increased by applying techniques, such as SCRUM, Agile and Kanban. 
-Important here is to choose the most suitable for the team to achieve high quality results.
+Software development is a rapidly growing activity that plays an important role in the economic development of many countries of the world.
+As Max Marmer wrote in his medium blog(2018), unlike 10 years ago, today's world's 5 largest companies by the market are software development companies.
+Particularly High Tech Park of Kyrgyzstan has raised revenue from "965 million KGS" in 2019 to "1 billion 165 million KGS" in 2020, regardless of the pandemic.
+It all looks good, but there are still some impediments that cause a high failure rate of Software Project development in Kyrgyzstan, such as 
+treating intellectual work as physical, misunderstanding of business logic, and lack of standards in coding architecture and deployment.
+These problems have been faced in many projects at some point, but it doesn't have to be.
+The project's success rate can be increased by applying techniques, such as SCRUM, Agile, and Kanban. 
+Important here is to choose the most suitable for the team to achieve high-quality results.
 
 
 RESEARCH QUESTION/HYPOTHESIS:
-1-Choosing suitable project development technique, decreases development time and increases success rate by more than 50%.
-2-Working remotely with suitable project development technique, can be as productive or more as working from office.
+1-Choosing a suitable project development technique decreases development time and increases success rate by more than 50%.
+2-Working remotely with a suitable project development technique can be as productive or more as working from the office.
 
 
 OBJECTIVES:
 To find appropriate ways to measure and improve the productivity of the teams and to discover to what extent the agile methods combined
-with “soft skills” of the team affect achieving high quality results remotely and from office.
+with “soft skills” of the team affect achieving high-quality results remotely and from the office.
 
 BRIEF JUSTIFICATION OF PROPOSED RESEARCH PROJECT AND ITS SIGNIFICANCE:
-Software development methodologies is popular among software companies, but because of some cultural aspects it is hard for some companies to adapt it.
+Software development methodologies are popular among software companies, but because of some cultural aspects, it is hard for some companies to adopt them.
 After 2 years of working as a Software Engineer in Kyrgyzstan, I observed aspects such as software development is measured as a physical job.
-It is one of the biggest obstacle to effective Software development process. To resolve this problem it is important for a company to have experts in SDLC, 
-who can convince in effectiveness of agile methodoloies. I beleive this will eventually increase success rate of software development projects.
+It is one of the biggest obstacles to an effective Software development process. To resolve this problem a company needs to have experts in SDLC, 
+who can convince in the effectiveness of agile methodologies. I believe this will eventually increase the success rate of software development projects.
 
 
 RESEARCH DESIGN AND METHODS:
-– A qualitative and quantitative study, consisting in interviews with Scrum masters and online
-questionnaires for scrum users will be done. This will help me understand to what extent the theories written in Agile methodologies 
-apply in Software development process of real life organizations.
+– A qualitative and quantitative study, consisting of interviews with Scrum masters and online
+questionnaires for scrum users will be done. Also, I will experiment with methodologies in developing projects from University courses.
+This will help me understand to what extent the theories written in Agile methodologies apply to the Software development process in real life.
 
 
 
@@ -49,3 +49,4 @@ REFERENCE LIST:
 Anonymous (2020, November 13). http://htp.kg/news_items/41 
 Fowler, M., & Highsmith, J. (2001). The agile manifesto. Software Development, 9(8), 28-35.
 Brijmohan Bhavsar (2017,November 7). https://synoptek.com/insights/it-blogs/solving-software-developments-greatest-challenges/
+Max Marmer (2018, February 13). https://maxmarmer.medium.com/a-look-at-how-technology-is-reshaping-the-global-economy-c716c4681e06
