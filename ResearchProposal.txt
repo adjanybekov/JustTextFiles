@@ -1,0 +1,60 @@
+Research proposal in 15 mins
+
+TITLE OF RESEARCH: Software development process optimization in Kyrgyzstan
+
+SHORT INTRODUCTION:
+Software development is rapidly growing activity that plays an important role in economic development of many countries of the world.
+According to the XXX, unlike 10 years ago, today software development impact on wolrd economy raised up to N percent. 
+Particularly it has raised from YYY KGS to ZZZ KGS revenue only in HTP for the last year in the Kyrgyzstan.
+From here I colcude that it's effect is going to grow in the next 10 years, and effective of Software development will be the key to optimize the development of software 
+as well as the effectiveness of software development.
+
+
+
+
+RESEARCH QUESTION/HYPOTHESIS:
+High failure rate of Software Development projects.
+Company is getting wrong understang of client requirements.
+One team member delay affecting whole team, and eventually extending deadlines.
+1. Unclear Vision Between Project leadership and Developer
+2. Poor Communication Between Team Members
+3. Misjudging Overall Costs and Overspending
+
+OBJECTIVES:
+– The objective of this study is to find appropriate ways to measure and improve
+the productivity of the teams and to discover to what extent the agile methods, the
+integration of the lean principles and the “soft skills” of the team can be combined in order
+to achieve high quality results. 
+
+BRIEF JUSTIFICATION OF PROPOSED RESEARCH PROJECT AND ITS SIGNIFICANCE:
+SDLC is a good thing, but because of some cultural aspects it is hard for some companies to adapt it.
+After 2 years of working in Kyrgyzstan, I see that it is same here... And one of the problems is that, Software project development is treated as if it is a physical job.
+It is one of the biggest obstacle to effective Software development process. To resolve this problem it is important for an industry to have experts in SLDC, 
+who can convince effectiveness by actions. I beleive this will eventually increase success rate of software development projects.
+
+
+RESEARCH DESIGN AND METHODS:
+– A qualitative and quantitative study, consisting in interviews with only Scrum masters online
+questionnaires with both Scrum masters and practitioners, and statistics, will be done in order to observe to
+what extent the views of the scholars and researchers apply to real life organizations operating in
+software development industry.
+
+
+
+BIBLIOGRAPHY:
+Pragmatic Programmer, 
+Agile Manifesto. 
+Own expereince
+
+
+REFERENCE LIST:
+http://htp.kg/news_items/41 (November 23/2020)
+
+https://agilemanifesto.org/
+https://www.atlassian.com/software/jira
+
+http://publications.lib.chalmers.se/records/fulltext/201465/201465.pdf
+
+https://synoptek.com/insights/it-blogs/solving-software-developments-greatest-challenges/
+
+https://cyberleninka.ru/article/n/informatsionnye-tehnologii-v-razvitii-kyrgyzstana-istoriya-i-perspektivy/viewer
